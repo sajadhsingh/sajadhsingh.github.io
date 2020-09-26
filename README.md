@@ -1,5 +1,5 @@
 ## Hi there, I'm Sajadh Singh 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/sajadhsingh)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajadhsingh/)](https://www.linkedin.com/in/sajadhsingh/)
 [![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sajadh.singh.test)](https://www.facebook.com/sajadh.singh.test)
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;presentations-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/sajadh.singh)](https://www.slideshare.net/sajadh.singh)
